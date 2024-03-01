@@ -1,0 +1,43 @@
+{
+"places":
+[
+{
+  "tour_video": "https://www.youtube.com/watch?v=p8mXAQ6cPxg",
+  "description": "India, a tapestry of colors, traditions, and spirituality, enchants visitors with its ancient temples, bustling bazaars, and diverse landscapes. From the majestic Taj Mahal in Agra to the serene backwaters of Kerala, India's rich heritage and hospitality leave a lasting impression on all who visit.",
+  "image_url": "https://thumbs.dreamstime.com/b/impressions-india-collage-travel-images-78312132.jpg",
+  "places": [
+   "Taj Mahal, Agra",
+"Jaipur, Rajasthan",
+"Varanasi, Uttar Pradesh",
+"Kerala Backwaters, Kerala",
+"Rishikesh, Uttarakhand",
+"Goa Beaches, Goa",
+"Hampi, Karnataka",
+"Delhi, National Capital Territory",
+"Darjeeling, West Bengal",
+"Jaisalmer, Rajasthan",
+  ]
+},
+
+
+{
+  "tour_video": "https://youtu.be/4Ot0T4iCXfM",
+  "description": "The United States, renowned for its diversity and cultural vibrancy, encompasses vast landscapes from the towering skyscrapers of New York City to the serene coastlines 
+   of California. With its rich history, technological advancements, and iconic landmarks such as the Grand Canyon and the Statue of Liberty, the USA remains a top destination for travelers worldwide.",
+  "image_url": "https://strategicdc.com/wp-content/uploads/2020/05/New-York-City-Chiropractic-Practice-for-Sale-SQUARE.jpeg",
+  "places": [
+   "Grand Canyon, Arizona",
+"Statue of Liberty, New York City",
+"Yellowstone National Park, Wyoming",
+"Golden Gate Bridge, San Francisco",
+"Walt Disney World Resort, Orlando, Florida",
+"Niagara Falls, New York",
+"Times Square, New York City",
+"Hollywood, Los Angeles, California",
+"Glacier National Park, Montana",
+"The White House, Washington D.C."
+  ]
+}
+
+]
+}
