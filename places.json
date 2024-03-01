@@ -35,7 +35,42 @@
 "Glacier National Park, Montana",
 "The White House, Washington D.C."
   ]
-}
+},
+
+{
+  "tour_video": "https://youtu.be/6lxg0NKZjOE",
+  "description": "France, the epitome of romance and sophistication, boasts a captivating blend of art, cuisine, and history. From the elegant boulevards of Paris to the sun-kissed vineyards of Bordeaux, the country exudes charm at every corner. Visitors are enchanted by iconic landmarks like the Eiffel Tower and the Palace of Versailles, while savoring delectable pastries and fine wines.",
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2020/10/CU/CV/ZY/12316189/international-tour-packages-500x500.jpg",
+  "places": [
+   "Eiffel Tower, Paris",
+"The Louvre Museum, Paris",
+"Palace of Versailles, Versailles",
+"Mont Saint-Michel, Normandy",
+"French Riviera, Nice",
+"Loire Valley Châteaux, Loire Valley",
+"Sainte-Chapelle, Paris",
+"Notre-Dame Cathedral, Paris",
+"Provence Lavender Fields, Provence",
+"Bordeaux Vineyards, Bordeaux"
+  ]
+},
+  {
+  "tour_video": "https://youtu.be/vvm8b2jAfv0",
+  "description": " China, a land of ancient traditions and modern marvels, is a captivating blend of old and new. With its breathtaking landscapes, from the Great Wall to the karst mountains of Guilin, and bustling metropolises like Shanghai and Beijing, China offers a wealth of cultural experiences and natural wonders to explore.",
+  "image_url": "https://www.chinadiscovery.com/assets/images/beijing/Beijing-attractions.jpg",
+  "places": [
+   "The Great Wall of China, Beijing",
+"Forbidden City, Beijing",
+"The Bund, Shanghai",
+"Terracotta Army, Xi'an",
+"Zhangjiajie National Forest Park, Hunan",
+"Li River Cruise, Guilin",
+"Potala Palace, Lhasa, Tibet",
+"West Lake, Hangzhou",
+"Chengdu Research Base of Giant Panda Breeding, Chengdu",
+"Yangtze River Cruise, Various Cities"
+  ]
+},
 
 ]
 
